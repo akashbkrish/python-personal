@@ -1,0 +1,7 @@
+1. https://www.kaggle.com/unanimad/dataisbeautiful
+
+2. https://www.kaggle.com/manjeetsingh/retaildataset
+
+3. https://www.kaggle.com/bigquery/google-analytics-sample
+
+4. https://www.kaggle.com/hackerrank/developer-survey-2018
